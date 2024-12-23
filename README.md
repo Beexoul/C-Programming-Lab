@@ -22,9 +22,4 @@ This repository contains solutions to various exercises grouped into three diffe
    ```
 
 ---
-
-### **Contributors**
-- **ShivaRajPaudel**
-  - First Semester BE-Computer Engineering Student
-
 Feel free to modify and enhance the programs to explore additional concepts and improve your understanding of C programming!
