@@ -1,3 +1,8 @@
+/*
+Question:
+Write a program to find sum of Exponential Series.
+*/
+
 #include <stdio.h>
 #include <math.h>
 int main() {
@@ -5,7 +10,7 @@ int main() {
     float x, sum = 0, factorial=1;
     printf("Enter x and n : ");
     scanf("%f %d", &x, &n);
-    for (int i = 0; i <= n; i++) {
+    for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= i; j++) {
             factorial = factorial * j;
         }

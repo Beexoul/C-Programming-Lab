@@ -1,3 +1,8 @@
+/*
+Question:
+Write a program to sum of Reciprocal Series.
+*/
+
 #include <stdio.h>
 #include <math.h>
 

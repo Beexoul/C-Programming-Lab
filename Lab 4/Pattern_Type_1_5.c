@@ -1,3 +1,13 @@
+/*
+Question:
+WAP to print the following pattern 
+1
+1       1
+1       1       1
+1       1       1       1
+1       1       1       1       1
+*/
+
 #include <stdio.h>
 
 int main() {

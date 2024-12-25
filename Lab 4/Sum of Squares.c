@@ -1,3 +1,9 @@
+/*
+Question:
+Write a program to sum of Squares.
+*/
+
+
 #include <stdio.h>
 
 int main() {
