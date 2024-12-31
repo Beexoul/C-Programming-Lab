@@ -1,3 +1,7 @@
+/*
+WAP to read marks of n students and print the marks of top five. 
+*/
+
 #include <stdio.h>
 
 int main() {

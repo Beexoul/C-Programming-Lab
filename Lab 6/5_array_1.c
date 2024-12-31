@@ -1,3 +1,7 @@
+/*
+WAP to input n number in an array and sort them in Ascending order. 
+*/
+
 #include <stdio.h>
 
 int main() {
