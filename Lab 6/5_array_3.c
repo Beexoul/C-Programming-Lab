@@ -10,7 +10,7 @@ int main() {
     printf("Enter the number of students: ");
     scanf("%d", &n);
     
-    int marks[n];
+    int marks[100];
     
     printf("Enter the marks of %d students:\n", n);
     for (i = 0; i < n; i++) {
