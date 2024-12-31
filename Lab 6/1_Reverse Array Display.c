@@ -3,6 +3,7 @@ Question:
 Write a Program to read n elements in array and display them in reverse order.
 */
 
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -25,7 +26,7 @@ int main()
         scanf("%d", &arr[i]);  
     }   
 
-    printf("The Reversed array: ");  
+    printf("The Reversed array: ");  // i = 8 -1   = 7
     for (i = n - 1; i >= 0; i--)  
     {  
         printf("%d ", arr[i]);  

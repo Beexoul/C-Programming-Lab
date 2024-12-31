@@ -27,11 +27,11 @@ int main() {
 
     for (i = 0; i < n; i++) {
         if (arr[i] == search) {
-            printf("Number %d found at position %d.\n", search, i + 1); // array 0 bata start hunxa and position of array chat 1 bata start hunxa so array address + 1 is the real position 
+            printf("Number %d found at position %d.\n", search, i + 1); 
             yesfoundit=1;
         }
     }
-        if(yesfoundit!=1){ // when there is no any matching array yesfoundit = 0 which make the condition true 0!=1 but when array is found 1!=1 is false 
+        if(yesfoundit!=1){ 
             printf("Number %d is not present in the array.\n", search);
         }
 
